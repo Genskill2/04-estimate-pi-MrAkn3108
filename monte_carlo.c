@@ -3,6 +3,7 @@
 #include <math.h>
 #include <assert.h>
 #include <stdlib.h>
+
 #define random rand
 #define srandom srand
 
